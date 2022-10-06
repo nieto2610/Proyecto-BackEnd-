@@ -1,0 +1,21 @@
+[2022-07-1316:31:08] [ INFO ] [OdontologoController:46] Estamos listando odontologos
+[2022-07-1316:31:08] [ ERROR] [GlobalExceptionHandler:24] No hay odontologos para mostrar
+[2022-07-1316:31:21] [ INFO ] [OdontologoController:27] Estamos guardando el odontologo con matricula A271482
+[2022-07-1316:33:13] [ INFO ] [OdontologoController:27] Estamos guardando el odontologo con matricula A271482
+[2022-07-1316:33:13] [ ERROR] [GlobalExceptionHandler:18] query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+[2022-07-1316:33:28] [ INFO ] [OdontologoController:46] Estamos listando odontologos
+[2022-07-1316:34:24] [ INFO ] [OdontologoController:71] Estamos eliminando el odontologo con id 1
+[2022-07-1316:34:33] [ INFO ] [OdontologoController:46] Estamos listando odontologos
+[2022-07-1316:35:42] [ INFO ] [PacienteController:27] Estamos guardando el paciente con DNI: 1116254545
+[2022-07-1316:35:52] [ INFO ] [PacienteController:46] Estamos listando los pacientes
+[2022-07-1316:36:05] [ INFO ] [PacienteController:58] Estamos actualizando el paciente con id 1
+[2022-07-1316:36:20] [ INFO ] [PacienteController:72] Estamos eliminando el paciente con id 1
+[2022-07-1316:36:27] [ INFO ] [PacienteController:27] Estamos guardando el paciente con DNI: 1116254545
+[2022-07-1316:36:36] [ INFO ] [PacienteController:46] Estamos listando los pacientes
+[2022-07-1316:37:04] [ INFO ] [TurnoController:34] Estamos guardando el turno
+[2022-07-1316:37:15] [ INFO ] [TurnoController:61] Estamos listando turnos
+[2022-07-1316:37:33] [ INFO ] [TurnoController:48] Estamos buscando el turno con id 1
+[2022-07-1316:38:04] [ INFO ] [TurnoController:73] Estamos actualizando el turno con id 1
+[2022-07-1316:38:20] [ INFO ] [TurnoController:86] Estamos eliminando el turno con id 1
+[2022-07-1316:38:27] [ INFO ] [TurnoController:34] Estamos guardando el turno
+[2022-07-1316:38:33] [ INFO ] [TurnoController:61] Estamos listando turnos
